@@ -13,7 +13,7 @@ Os usuários devem ser capazes de:
 
 ### Captura de tela
 
-![](./screenshot.jpg)
+[Vizualizar](./Screenshot.png)
 
 ### Links
 
