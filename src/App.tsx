@@ -21,7 +21,7 @@ function App() {
     <div className="bg-very-dark-blue flex justify-center items-center min-h-screen">
       {modalThanks ? (
         <div className="bg-dark-blue mx-5 p-5 md:p-10 flex flex-col items-center text-center rounded-3xl gap-5 w-full md:w-6/12 lg:w-6/12 2xl:w-3/12">
-          <img src="/illustration-thank-you.svg" className="w-44" />
+          <img src="./illustration-thank-you.svg" className="w-44" />
           <p className="bg-gray-700 text-orange py-2 px-5 rounded-full">
             You selected {note} out of 5
           </p>
@@ -34,7 +34,7 @@ function App() {
       ) : (
         <div className="bg-dark-blue mx-5 p-5 md:p-10 flex flex-col rounded-3xl gap-5 w-full md:w-6/12 lg:w-6/12 2xl:w-3/12">
           <div className="bg-gray-700 h-10 w-10 rounded-full flex flex-col items-center justify-center">
-            <img src="/icon-star.svg" className="h-5 w-5" />
+            <img src="./icon-star.svg" className="h-5 w-5" />
           </div>
           <h1 className="text-4xl text-white font-bold">How did we do?</h1>
           <p className="text-light-grey font-normal text-lg">
